@@ -1,6 +1,0 @@
-<svg width="1000" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
-  <style>text { font: 700 34px 'Trebuchet MS', 'Segoe UI', sans-serif; }</style>
-  <text x="500" y="62" text-anchor="middle" fill="#FF79C6" opacity="0">♡ coding with anime energy ♡<animate attributeName="opacity" values="0;1;1;0" dur="12s" begin="0s" repeatCount="indefinite"/></text>
-  <text x="500" y="62" text-anchor="middle" fill="#C9A7FF" opacity="0">✦ turning chaos into systems ✦<animate attributeName="opacity" values="0;1;1;0" dur="12s" begin="4s" repeatCount="indefinite"/></text>
-  <text x="500" y="62" text-anchor="middle" fill="#7DF9D2" opacity="0">☆ learning, building, repeating ☆<animate attributeName="opacity" values="0;1;1;0" dur="12s" begin="8s" repeatCount="indefinite"/></text>
-</svg>
