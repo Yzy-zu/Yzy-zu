@@ -1,0 +1,44 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.52" stop-color="#16112E"/>
+      <stop offset="1" stop-color="#081D2B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="80" x2="1020" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <circle cx="1050" cy="55" r="92" fill="#22D3EE" fill-opacity="0.08" filter="url(#glow)">
+    <animate attributeName="r" values="80;105;80" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="160" cy="270" r="80" fill="#A78BFA" fill-opacity="0.10" filter="url(#glow)">
+    <animate attributeName="cy" values="270;250;270" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M0 250 C180 190 260 315 450 250 S760 190 940 245 S1100 300 1200 220" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="80" y="118" fill="#E2E8F0" font-size="22" letter-spacing="7">WELCOME TO MY DIGITAL SPACE</text>
+    <text x="78" y="188" fill="url(#accent)" font-size="64" font-weight="800" letter-spacing="2">BUILD • BREAK • LEARN</text>
+    <text x="82" y="232" fill="#CBD5E1" font-size="21" letter-spacing="4">AUTOMATION  ·  BOTS  ·  WEB  ·  MOBILE</text>
+  </g>
+  <g transform="translate(930 170)" filter="url(#glow)">
+    <rect width="190" height="100" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.65"/>
+    <circle cx="22" cy="20" r="5" fill="#FB7185"/><circle cx="40" cy="20" r="5" fill="#FBBF24"/><circle cx="58" cy="20" r="5" fill="#34D399"/>
+    <text x="22" y="58" fill="#A78BFA" font-size="18" font-family="monospace">&gt;_</text>
+    <rect x="48" y="47" width="88" height="10" rx="5" fill="#22D3EE" fill-opacity="0.8">
+      <animate attributeName="width" values="20;88;45;88" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="22" y="76" width="124" height="6" rx="3" fill="#64748B" fill-opacity="0.55"/>
+  </g>
+</svg>
