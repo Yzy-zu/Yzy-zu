@@ -1,44 +1,54 @@
 <div align="center">
 
 <a href="https://github.com/Yzy-zu">
-  <img src="https://raw.githubusercontent.com/Yzy-zu/Yzy-zu/main/assets/banner.svg" alt="Animated banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Yzy-zu/Yzy-zu/main/assets/banner.svg" alt="Anime coding banner" width="100%" />
 </a>
-
-<img src="https://raw.githubusercontent.com/Yzy-zu/Yzy-zu/main/assets/typing.svg" alt="Animated motto" width="90%" />
-
-<img src="https://github.com/Yzy-zu.png?size=160" alt="Profile avatar" width="120" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-0B1020?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Kotlin-0B1020?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin" />
+<img src="https://raw.githubusercontent.com/Yzy-zu/Yzy-zu/main/assets/typing.svg" alt="Animated anime coding messages" width="92%" />
+
+<img src="https://raw.githubusercontent.com/Yzy-zu/Yzy-zu/main/assets/sticker.svg" alt="Cute anime coding sticker" width="150" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,kotlin,html,css,nodejs,git,github,docker&theme=dark" alt="Tech stack" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-ff79c6?style=for-the-badge&labelColor=1b102d" alt="Always building" />
+<img src="https://img.shields.io/badge/MOOD-CURIOUS-c9a7ff?style=for-the-badge&labelColor=1b102d" alt="Curious" />
+<img src="https://img.shields.io/badge/ENERGY-ANIME-7df9d2?style=for-the-badge&labelColor=1b102d" alt="Anime energy" />
 
 </div>
 
-## ✦ A little about this space
+## ✦ About this space
 
-A corner for experiments, useful tools, automation, bots, web ideas, and mobile builds.
+A little corner for experiments, useful tools, automation, bots, web ideas, and mobile builds.
 
-I like taking a rough idea, giving it a system, and iterating until it becomes something practical.
+I like turning chaotic ideas into working systems — preferably with good vibes, cute visuals, and too much coffee.
 
 <div align="center">
 
-### `code` · `create` · `iterate` · `repeat`
+### `code` ♡ `create` ♡ `iterate` ♡ `repeat`
 
 </div>
 
-## ⚡ Current energy
+## ☆ Current arc
 
-- Building practical tools instead of collecting unfinished ideas
-- Exploring automation, integrations, and reliable backend systems
-- Learning through hands-on projects and constant iteration
+- Building practical tools and integrations
+- Exploring bots, backend systems, and automation
+- Learning by shipping, breaking, fixing, and trying again
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-A78BFA?style=for-the-badge&labelColor=0B1020" alt="Always building" />
-<img src="https://img.shields.io/badge/MOOD-CURIOUS-22D3EE?style=for-the-badge&labelColor=0B1020" alt="Curious" />
-<img src="https://img.shields.io/badge/STACK-IN_PROGRESS-34D399?style=for-the-badge&labelColor=0B1020" alt="Stack in progress" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yzy-zu&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=ff79c6&icon_color=c9a7ff&text_color=ffe8f5" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yzy-zu&layout=compact&hide_border=true&bg_color=00000000&title_color=ff79c6&text_color=ffe8f5" alt="Top languages" height="170" />
+
+</div>
+
+<div align="center">
+
+<sub>✧ welcome to the side quest ✧</sub>
 
 </div>
